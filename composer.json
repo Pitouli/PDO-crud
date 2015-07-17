@@ -1,0 +1,11 @@
+{
+    "name": "pitouli/pdo-crud",
+    "description": "A basic class that helps to perform CRUD actions on a server",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
